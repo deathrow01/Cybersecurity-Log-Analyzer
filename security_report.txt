@@ -1,0 +1,24 @@
+===== CYBERSECURITY LOG REPORT =====
+Valid log entries: 61
+Invalid log entries: 1
+
+===== LOG LEVEL SUMMARY =====
+DEBUG: 12
+INFO: 36
+WARNING: 7
+ERROR: 6
+
+===== FAILED LOGINS BY IP =====
+No failed logins linked to an IP address.
+
+===== SUSPICIOUS IP ADDRESSES =====
+192.168.1.100
+192.168.1.101
+
+===== SECURITY EVENTS =====
+2025-11-19 14:06:45 WARNING Failed login attempt for user 'guest'.
+2025-11-19 14:10:01 WARNING Suspicious activity detected from IP '192.168.1.100'.
+2025-11-19 14:17:45 WARNING Multiple failed login attempts detected.
+2025-11-19 14:28:45 WARNING Unusual traffic detected from IP '192.168.1.101'.
+2025-11-19 14:32:01 WARNING Potential security breach detected.
+2025-11-19 14:45:01 WARNING Failed login attempt for user 'guest'.
